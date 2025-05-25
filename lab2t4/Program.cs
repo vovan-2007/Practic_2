@@ -8,7 +8,7 @@
             double b = 2.6;
             b = a + b;
             Console.WriteLine("Сумма: " + b);
-            Console.WriteLine("Нажмите на любую клавишу для выхода");
+            Console.WriteLine("Нажмите любую клавишу для выхода...");
             Console.ReadKey();
         }
     }

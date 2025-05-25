@@ -6,9 +6,9 @@
         {
             Console.Write("Введите число: ");
             string a = Console.ReadLine();
-            int b = int.Parse(a) * int.Parse(a);
-            Console.WriteLine("Результат: " + b);
-            Console.WriteLine("Нажмите на любую клавишу для выхода");
+            int b = Convert.ToInt32(a) * Convert.ToInt32(a);
+            Console.WriteLine("Квадарат числа: " + b);
+            Console.WriteLine("Нажмите любую клавишу для выхода...");
             Console.ReadKey();
         }
     }
