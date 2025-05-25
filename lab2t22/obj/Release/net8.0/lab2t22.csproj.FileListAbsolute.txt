@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab2\lab2t22\bin\Release\net8.0\lab2t22.exe
+C:\Users\vinil\source\repos\lab2\lab2t22\bin\Release\net8.0\lab2t22.deps.json
+C:\Users\vinil\source\repos\lab2\lab2t22\bin\Release\net8.0\lab2t22.runtimeconfig.json
+C:\Users\vinil\source\repos\lab2\lab2t22\bin\Release\net8.0\lab2t22.dll
+C:\Users\vinil\source\repos\lab2\lab2t22\bin\Release\net8.0\lab2t22.pdb
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.dll
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\refint\lab2t22.dll
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.pdb
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\lab2t22.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab2\lab2t22\obj\Release\net8.0\ref\lab2t22.dll
