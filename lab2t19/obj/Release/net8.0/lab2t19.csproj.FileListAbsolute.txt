@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab2\lab2t19\bin\Release\net8.0\lab2t19.exe
+C:\Users\vinil\source\repos\lab2\lab2t19\bin\Release\net8.0\lab2t19.deps.json
+C:\Users\vinil\source\repos\lab2\lab2t19\bin\Release\net8.0\lab2t19.runtimeconfig.json
+C:\Users\vinil\source\repos\lab2\lab2t19\bin\Release\net8.0\lab2t19.dll
+C:\Users\vinil\source\repos\lab2\lab2t19\bin\Release\net8.0\lab2t19.pdb
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.dll
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\refint\lab2t19.dll
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.pdb
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\lab2t19.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab2\lab2t19\obj\Release\net8.0\ref\lab2t19.dll
