@@ -8,7 +8,7 @@
             Console.WriteLine(rnd.Next());
             Console.WriteLine(rnd.Next(5));
             Console.WriteLine(rnd.Next(-5, 5));
-            Console.WriteLine("Нажмите на любую клавишу для выхода");
+            Console.WriteLine("Нажмите любую клавишу для выхода...");
             Console.ReadKey();
         }
     }

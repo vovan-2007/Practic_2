@@ -11,7 +11,7 @@
             int b = Convert.ToInt32(Console.ReadLine());
             Random rnd = new Random();
             Console.WriteLine(rnd.Next(a, b));
-            Console.WriteLine("Нажмите на любую клавишу для выхода");
+            Console.WriteLine("Нажмите любую клавишу для выхода...");
             Console.ReadKey();
         }
     }
