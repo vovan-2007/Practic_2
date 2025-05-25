@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab2\lab2t17\bin\Release\net8.0\lab2t17.exe
+C:\Users\vinil\source\repos\lab2\lab2t17\bin\Release\net8.0\lab2t17.deps.json
+C:\Users\vinil\source\repos\lab2\lab2t17\bin\Release\net8.0\lab2t17.runtimeconfig.json
+C:\Users\vinil\source\repos\lab2\lab2t17\bin\Release\net8.0\lab2t17.dll
+C:\Users\vinil\source\repos\lab2\lab2t17\bin\Release\net8.0\lab2t17.pdb
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.dll
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\refint\lab2t17.dll
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.pdb
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\lab2t17.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab2\lab2t17\obj\Release\net8.0\ref\lab2t17.dll
